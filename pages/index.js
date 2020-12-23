@@ -7,7 +7,7 @@ export default function Home() {
         <title>NextWind</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>hello world</div>
+      <div className="">hello world</div>
     </div>
   );
 }
