@@ -3,12 +3,12 @@ import PageTemplate from "../templates/page.template";
 const Privacy = () => {
   return (
     <div>
-      <h1>Privacy policies</h1>
+      <h1 className="text-6xl">Privacy policies</h1>
       <p>
-        These Terms will be applied fully and affect to your use of this
-        Website. By using this Website, you agreed to accept all terms and
-        conditions written in here. You must not use this Website if you
-        disagree with any of these Website Standard Terms and Conditions.
+        quo minus id quod maxime placeat facere possimus, omnis voluptas
+        assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et
+        aut officiis debitis aut rerum necessitatibus saepe eveniet ut et
+        voluptates repudiandae sint et molestiae non recusandae.
       </p>
     </div>
   );

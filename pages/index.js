@@ -8,10 +8,13 @@ const Home = () => {
         <title>NextWind</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="">hello world</div>
-      <div className="p-4 shadow rounded bg-white">
-        <h1 className="text-purple-500 leading-normal">Next.js</h1>
-        <p className="text-gray-500">with Tailwind CSS</p>
+      <div className="flex justify-center">
+        <p className="mt-20 text-5xl text-center w-2/3">
+          quo minus id quod maxime placeat facere possimus, omnis voluptas
+          assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et
+          aut officiis debitis aut rerum necessitatibus saepe eveniet ut et
+          voluptates repudiandae sint et molestiae non recusandae.
+        </p>
       </div>
     </div>
   );
