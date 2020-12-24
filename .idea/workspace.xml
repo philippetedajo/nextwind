@@ -20,9 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20b8066-a01c-4f73-9de8-571e648a1eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/api/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/d-din.bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/d-din.regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/page.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page.template.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +50,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/fonts" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,css,json}" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -53,6 +62,7 @@
       <recent name="$PROJECT_DIR$/pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/fonts" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
@@ -67,7 +77,7 @@
       <workItem from="1608745166120" duration="3089000" />
       <workItem from="1608749325120" duration="56000" />
       <workItem from="1608749383823" duration="304000" />
-      <workItem from="1608799371737" duration="4042000" />
+      <workItem from="1608799371737" duration="7921000" />
     </task>
     <task id="LOCAL-00001" summary="initialise tailwind css">
       <created>1608748785167</created>
@@ -83,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608803659986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1608804914178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608804914178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,14 +128,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="460" y="227" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900@0.0.1440.900" timestamp="1608802429330" />
-    <state x="225" y="78" width="997" height="742" key="SettingsEditor" timestamp="1608804781874">
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor" timestamp="1608808638192">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608804781874" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1608803661738">
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608808638192" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1608804916148">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608803661738" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608804916148" />
+    <state x="385" y="196" key="search.everywhere.popup" timestamp="1608809077417">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1608809077417" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

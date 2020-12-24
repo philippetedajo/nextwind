@@ -3,8 +3,11 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <div>
-      <ul style={{ border: "1px solid blue" }}>
+    <div className="p-3" style={{ border: "1px solid black" }}>
+      <div style={{ border: "1px solid green" }} className="logo">
+        <h1 className="text-3xl ">Nextwind</h1>
+      </div>
+      <ul className="text-lg" style={{ border: "1px solid blue" }}>
         <li>
           <Link href="/about">
             <a>About</a>
@@ -21,7 +24,7 @@ const Header = () => {
           </Link>
         </li>
       </ul>
-      <ul style={{ border: "1px solid red" }}>
+      <ul className="text-lg" style={{ border: "1px solid red" }}>
         <li>
           <Link href="/login">
             <a>Login</a>

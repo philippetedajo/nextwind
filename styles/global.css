@@ -1,0 +1,18 @@
+/*  */
+@font-face {
+  font-family: "ddin";
+  src: local("ddin"), url("/fonts/d-din.regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ddinbold";
+  src: local("ddinbold"), url("/fonts/d-din.bold.ttf") format("truetype");
+}
+
+/*  */
+body {
+  font-family: ddinbold, serif;
+}
+p {
+  font-family: ddin, serif;
+}
