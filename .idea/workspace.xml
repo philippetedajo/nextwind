@@ -20,20 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b20b8066-a01c-4f73-9de8-571e648a1eba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/forgot-password.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/privacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/reset-password.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/auth.template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/page.template.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +67,7 @@
       <workItem from="1608745166120" duration="3089000" />
       <workItem from="1608749325120" duration="56000" />
       <workItem from="1608749383823" duration="304000" />
-      <workItem from="1608799371737" duration="2787000" />
+      <workItem from="1608799371737" duration="4042000" />
     </task>
     <task id="LOCAL-00001" summary="initialise tailwind css">
       <created>1608748785167</created>
@@ -88,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608748785167</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1608803659986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608803659986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,17 +103,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialise tailwind css" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialise tailwind css" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="227" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1608802429330">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="460" y="227" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900@0.0.1440.900" timestamp="1608802429330" />
-    <state x="225" y="78" width="997" height="742" key="SettingsEditor" timestamp="1608802437338">
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor" timestamp="1608804781874">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608802437338" />
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608804781874" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1608803661738">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608803661738" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
