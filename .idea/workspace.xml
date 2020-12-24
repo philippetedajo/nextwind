@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b20b8066-a01c-4f73-9de8-571e648a1eba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/forgot-password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/privacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/reset-password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/auth.template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/page.template.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +54,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,6 +79,7 @@
       <workItem from="1608745166120" duration="3089000" />
       <workItem from="1608749325120" duration="56000" />
       <workItem from="1608749383823" duration="304000" />
+      <workItem from="1608799371737" duration="2787000" />
     </task>
     <task id="LOCAL-00001" summary="initialise tailwind css">
       <created>1608748785167</created>
@@ -68,6 +109,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialise tailwind css" />
     <option name="LAST_COMMIT_MESSAGE" value="initialise tailwind css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="227" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1608802429330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="227" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900@0.0.1440.900" timestamp="1608802429330" />
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor" timestamp="1608802437338">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608802437338" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

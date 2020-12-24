@@ -1,7 +1,14 @@
 import "tailwindcss/tailwind.css";
 
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  const Template = Component.Template || EmptyTemplate;
+  return (
+    <Template>
+      <Component {...pageProps} />
+    </Template>
+  );
 }
 
-export default MyApp
+const EmptyTemplate = ({ children }) => <>{children}</>;
+
+export default MyApp;
