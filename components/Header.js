@@ -6,7 +6,7 @@ const Header = () => {
     <div className="px-10 py-2 flex justify-between">
       <div className="flex items-center">
         <Link href="/">
-          <a className="text-3xl">Nextwind</a>
+          <a className="text-2xl">Nextwind</a>
         </Link>
       </div>
       <ul className="text-lg flex items-center">

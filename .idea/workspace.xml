@@ -21,13 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b20b8066-a01c-4f73-9de8-571e648a1eba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/privacy.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/privacy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +69,7 @@
       <workItem from="1608749325120" duration="56000" />
       <workItem from="1608749383823" duration="304000" />
       <workItem from="1608799371737" duration="8202000" />
-      <workItem from="1608817241015" duration="3988000" />
+      <workItem from="1608817241015" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="initialise tailwind css">
       <created>1608748785167</created>
@@ -105,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608809974817</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update layout">
+      <created>1608822820417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608822820417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,10 +139,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="225" y="78" width="997" height="742" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1608808638192" />
-    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1608809976848">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2" timestamp="1608822826691">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608809976848" />
+    <state x="320" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1608822826691" />
     <state x="385" y="196" key="search.everywhere.popup" timestamp="1608809077417">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
