@@ -13,7 +13,7 @@ export default withSession(async (req, res) => {
       return;
     }
 
-    axios.defaults.headers.common["Authorization"] = "token for auth";
+    axios.defaults.headers.common["Authorization"] = data.data.token;
 
     const user = { isLoggedIn: true, data: data.data };
     req.session.set("user", user);
